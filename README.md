@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="docs/assets/Logo.png" alt="SentinelAC Logo" width="400" />
+  <img src="docs/assets/Logo.png" alt="SentinelAC Logo" width="400"  height="300"/>
 </p>
 
 ## Description
