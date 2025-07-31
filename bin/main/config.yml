@@ -1,0 +1,6 @@
+
+
+# Messages
+
+prefix: "&b[SentinelAC]&r "
+prediction_alert_message: "%prefix% &f%player% &bfailed &f%check% &b[%vl% / %max-vl%] &f//%offset%"

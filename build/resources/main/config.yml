@@ -1,0 +1,34 @@
+
+
+# Messages
+
+prefix: "&b[SentinelAC]&r "
+alert_message: "%prefix% &f%player% &bfailed &f%check% &b[%vl% / %max-vl%] &f//%offset%"
+
+
+# Check settings
+
+enable_autoclicker_checks: true #Turn on or off autoclicker checks
+autoclicker_modes:  #You can specify to turn on or off specific modes
+  mean: true
+  mode: true
+  variance: true
+  standard_deviation: true
+
+autoclicker_thresholds:
+  #for Clicks(Simple)
+  max: 20
+  #for Clicks(Mean)
+  max_mean: 14
+  #for Clicks(Mode)
+  max_mode: 4
+  #for Clicks(Variance)
+  min_variance: 1.5
+  max_variance: 3.5
+  #for Clicks(Std) - Standard deviation
+  max_std: 0.5
+
+enable_aimassist_checks: true
+aimassist_mode:
+  gcd: true
+
