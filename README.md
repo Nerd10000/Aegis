@@ -1,6 +1,7 @@
-# SentinelAC
 
-![SentinelAC Logo](docs/assets/Logo.png)
+<p align="center">
+  <img src="docs/assets/Logo.png" alt="SentinelAC Logo" width="200" />
+</p>
 
 ## Description
 
