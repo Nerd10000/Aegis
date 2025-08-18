@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SentinelAC.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SentinelAC.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SentinelAC.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SentinelAC.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dragon.me.SentinelAC.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dragon.me.SentinelAC.main.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+name: Aegis
+version: '1.0-SNAPSHOT'
+main: dragon.me.Aegis.Aegis
+api-version: '1.21'
