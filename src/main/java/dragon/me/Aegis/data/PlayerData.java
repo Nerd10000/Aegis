@@ -43,7 +43,7 @@ public class PlayerData {
     private double sensitivityX,sensitivityY;
 
     private boolean[] isFinishedArray = new boolean[10];
-
+    private HashMap<String,Float> bufferedMap = new HashMap<>();
     public PlayerData(UUID uuid){
         this.uuid = uuid;
         this.world = Bukkit.getPlayer(uuid).getWorld();
@@ -477,4 +477,10 @@ public class PlayerData {
     public boolean isSneaking() {
         return isSneaking;
     }
+
+    public HashMap<String, Float> getBufferMap() {
+        return bufferedMap;
+    }
+
+
 }
