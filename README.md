@@ -5,6 +5,8 @@
 
 ## 📄 Description
 
+### 🚨 Note: Aegis is still in Pre-beta phase so **DO NOT USE IT IN PRODUCTION SERVERS**.
+
 Aegis is a free and open-source next-generation anticheat plugin for Spigot, Paper, and their forks.  
 It provides reliable cheat detection with minimal server impact, designed to keep your Minecraft server fair and enjoyable.
 
