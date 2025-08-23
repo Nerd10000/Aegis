@@ -15,7 +15,8 @@ It provides reliable cheat detection with minimal server impact, designed to kee
 ## 💡 Features
 
 - Advanced cheat detection
-- Multi-version support (Spigot, Paper, and forks)  
+- Multi-platform support (Spigot, Paper, and forks)
+- Multi-version support from 1.18 - 1.21 (Learn more about it on our Github Wiki page.) 
 - Lightweight and performant  
 - Open-source and community-driven  
 
